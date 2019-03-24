@@ -1,8 +1,8 @@
-** * * # HashTEC * * **
+** * * #HashTEC * * **
 
 #HashTEC is a German Splatoon 2 Competitive Team which was founded on 11.07.2018 and consists of 6 members. This is Our official discord server.
 
-**Roster of # HashTEC**\
+**Roster of #HashTEC**\
 
 __*#Lenny|:flag_de:*__\
 **(Captain)**\
